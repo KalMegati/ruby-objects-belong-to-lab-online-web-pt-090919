@@ -2,7 +2,7 @@ class Song
     
   attr_reader :title
   
-  def initialize(name)
+  def initialize(title)
     @title = title
   end
   
